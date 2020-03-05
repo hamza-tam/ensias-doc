@@ -5,12 +5,19 @@ theme: cupper-hugo-theme
 
 taxonomies:
   tag: tags
+  club: clubs
 
 menu:
   nav:
     - name: Home
       url: /
       weight: 1
-    - name: Posts
+    - name: Tutorials
       url: /post/
       weight: 2
+    - name: Tags
+      url: /tags/
+      weight: 3
+    - name: Clubs
+      url: /clubs/
+      weight: 4
