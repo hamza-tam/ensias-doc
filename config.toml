@@ -1,4 +1,0 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "ENSIAS Wiki"
-theme = "cupper-hugo-theme"

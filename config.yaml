@@ -1,0 +1,16 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: ENSIAS Wiki
+theme: cupper-hugo-theme
+
+taxonomies:
+  tag: tags
+
+menu:
+  nav:
+    - name: Home
+      url: /
+      weight: 1
+    - name: Posts
+      url: /post/
+      weight: 2
