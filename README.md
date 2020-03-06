@@ -1,3 +1,5 @@
+[![pipeline status](https://gitlab.com/hamza-tam/ensias-wiki/badges/master/pipeline.svg)](https://gitlab.com/hamza-tam/ensias-wiki/-/commits/master)
+
 **Welcome to ENSIAS Wiki !!**
 
 ## WHAT IS ENSIAS WIKI
