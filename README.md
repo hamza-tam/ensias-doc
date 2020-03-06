@@ -15,6 +15,7 @@ All of the information presented will be for the sake of knowledge sharing and i
  - [x] Creating the tutorial page
  - [x] Activate the tags
  - [x] Add the clubs page
+ - [ ] Create the pipeline
  - [ ] Write the how to contribute page
  - [ ] Personalize the theme
  - [ ] Decide the architeture
