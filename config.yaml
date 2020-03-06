@@ -1,7 +1,7 @@
-baseURL: http://example.org/
+baseURL: http://hamza-tam.gitlab.io/ensias-wiki/
 languageCode: en-us
 title: ENSIAS Wiki
-theme: cupper-hugo-theme
+theme: custom-cupper
 
 taxonomies:
   tag: tags
