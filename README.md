@@ -1,4 +1,4 @@
-[![pipeline status](https://gitlab.com/hamza-tam/ensias-wiki/badges/master/pipeline.svg)](https://gitlab.com/hamza-tam/ensias-wiki/-/commits/master)
+[![pipeline status](https://gitlab.com/hamza-tam/ensias-doc/badges/master/pipeline.svg)](https://gitlab.com/hamza-tam/ensias-doc/-/commits/master)
 
 **Welcome to ENSIAS Wiki !!**
 
