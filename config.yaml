@@ -1,6 +1,6 @@
 baseURL: https://hamza-tam.gitlab.io/ensias-doc/
 languageCode: en-us
-title: ENSIAS Wiki
+title: ENSIAS Doc
 theme: custom-cupper
 
 taxonomies:

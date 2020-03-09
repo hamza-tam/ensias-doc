@@ -1,11 +1,11 @@
 ---
 date: "2020-03-05"
-title: "Welcome to ENSIAS Wiki"
+title: "Welcome to ENSIAS Doc"
 ---
 
-## WHAT IS ENSIAS WIKI
+## WHAT IS ENSIAS DOC
 
-**ENSIAS Wiki** is a wiki for ENSIAS engineering school. Its aim is to provide the foundation for students to have access to a lot of resources and information about the school education.
+**ENSIAS Doc** is a wiki for ENSIAS engineering school. Its aim is to provide the foundation for students to have access to a lot of resources and information about the school education.
 
 All of the information presented will be for the sake of knowledge sharing and information gathering.
 
@@ -18,7 +18,5 @@ All of the information presented will be for the sake of knowledge sharing and i
  - [x] Add the clubs page
  - [x] Create the pipeline
  - [ ] Write the how to contribute page
- - [ ] Personalize the theme
+ - [x] Personalize the theme
  - [ ] Decide the architeture
- - [ ] Decide the content of the README
- - [ ] Write the article on how to contribute

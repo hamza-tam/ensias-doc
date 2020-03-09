@@ -17,7 +17,5 @@ All of the information presented will be for the sake of knowledge sharing and i
  - [x] Add the clubs page
  - [x] Create the pipeline
  - [ ] Write the how to contribute page
- - [ ] Personalize the theme
+ - [x] Personalize the theme
  - [ ] Decide the architeture
- - [ ] Decide the content of the README
- - [ ] Write the article on how to contribute
