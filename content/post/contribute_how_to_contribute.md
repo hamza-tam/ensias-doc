@@ -81,7 +81,7 @@ title, date, contributor are mandatory
 You can remove either the tag or the club name if it's not useful.
 
 {{< note >}}
- Don't forget to clean this template (Change the date, the tag and club names).
+Don't forget to clean this template (Change the date, the tag and club names).
 {{< /note >}}
 
 ## Suggestions or modification
