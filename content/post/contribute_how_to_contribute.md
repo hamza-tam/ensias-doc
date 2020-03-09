@@ -10,6 +10,8 @@ draft: false
 
 Since the sole goal of this project is to promote the exchange of information between students (and why not even teachers), it relies heavily on contributions. The purpose of this tutorial is to give enough information to make anyone capable of participating in the writing of new tutorials to be able to do so easily.
 
+To have an idea about the syntax, visit the [syntax guide]({{< ref "contribute_syntax.md" >}}).
+
 ## Prerequisites
 
 The following things should be installed on your machine:
@@ -61,10 +63,10 @@ A post markdown file should have the following skeleton to be perfectly integrat
 ```
 ---
 title: "A meaningful title"
-date: 2020-03-05T15:52:35+01:00 // Timestamp of the article
+date: 2020-03-05T15:52:35+01:00 
 updated: 2020-03-09T10:18:48+01:00
-tags: ["tag1", ...] // List your tags here
-clubs: ["club1", ...] // List the name of the clubs
+tags: ["tag1", "..."] 
+clubs: ["club1", "..."] 
 contributor: "Your name"
 draft: false
 ---
@@ -75,6 +77,12 @@ You can start writing your article here
 {{< warning >}}
 title, date, contributor are mandatory
 {{< /warning >}}
+
+You can remove either the tag or the club name if it's not useful.
+
+{{< note >}}
+ Don't forget to clean this template (Change the date, the tag and club names).
+{{< /note >}}
 
 ## Suggestions or modification
 

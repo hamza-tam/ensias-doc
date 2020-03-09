@@ -4,8 +4,9 @@ title: ENSIAS Doc
 theme: custom-cupper
 
 params:
-  description: The non official documentation of ENSIAS
+  description: The non official documentation of ENSIAS.
   katex: true
+  footer: Developped by [Hamza Tamenaoul](https://hamza-tam.gitlab.io/), using [Hugo](https://gohugo.io/) and [Cupper Theme](https://github.com/zwbetz-gh/cupper-hugo-theme).
 
 taxonomies:
   tag: tags

@@ -16,9 +16,8 @@ All of the information presented will be for the sake of knowledge sharing and i
  - [x] Activate the tags
  - [x] Add the clubs page
  - [x] Create the pipeline
- - [ ] Write the how to contribute page
+ - [x] Write the how to contribute page
  - [x] Personalize the theme
- - [ ] Decide the architeture
 
 ## SUGGESTIONS OR MODIFICATION
 
