@@ -2,7 +2,7 @@
 title: "How to contribute"
 date: 2020-03-05T15:52:35+01:00
 tags: ["contribute"]
-contributor: "Hamza"
+contributor: "Hamza Tamenaoul"
 draft: false
 ---
 
@@ -75,3 +75,11 @@ You can start writing your article here
 {{< warning >}}
 title, date, contributor are mandatory
 {{< /warning >}}
+
+## Suggestions or modification
+
+Any suggestions or contribution is welcomed. 
+
+For suggestions, problems, or modification requests open an issue in the Github repository.
+
+For contributions, just make a pull request describing the modification made.

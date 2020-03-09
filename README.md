@@ -19,3 +19,11 @@ All of the information presented will be for the sake of knowledge sharing and i
  - [ ] Write the how to contribute page
  - [x] Personalize the theme
  - [ ] Decide the architeture
+
+## SUGGESTIONS OR MODIFICATION
+
+Any suggestions or contribution is welcomed. 
+
+For suggestions, problems, or modification requests open an issue in the Github repository.
+
+For contributions, just make a pull request describing the modification made.

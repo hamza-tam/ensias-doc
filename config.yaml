@@ -3,6 +3,9 @@ languageCode: en-us
 title: ENSIAS Doc
 theme: custom-cupper
 
+params:
+  description: The non official documentation of ENSIAS
+
 taxonomies:
   tag: tags
   club: clubs
