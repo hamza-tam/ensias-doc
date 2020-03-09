@@ -64,7 +64,6 @@ A post markdown file should have the following skeleton to be perfectly integrat
 ---
 title: "A meaningful title"
 date: 2020-03-05T15:52:35+01:00 
-updated: 2020-03-09T10:18:48+01:00
 tags: ["tag1", "..."] 
 clubs: ["club1", "..."] 
 contributor: "Your name"
