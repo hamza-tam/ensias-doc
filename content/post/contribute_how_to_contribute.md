@@ -16,8 +16,8 @@ To have an idea about the syntax, visit the [syntax guide]({{< ref "contribute_s
 
 The following things should be installed on your machine:
 
-- Git
-- Hugo (Optional)
+- [Git](https://git-scm.com/)
+- [Hugo](https://gohugo.io/) (Optional)
 
 ## Procedure to contribute
 
