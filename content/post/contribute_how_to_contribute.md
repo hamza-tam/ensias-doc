@@ -16,8 +16,8 @@ To have an idea about the syntax, visit the [syntax guide]({{< ref "contribute_s
 
 The following things should be installed on your machine:
 
-- Git
-- Hugo (Optional)
+- [Git](https://git-scm.com/)
+- [Hugo](https://gohugo.io/) (Optional)
 
 ## Procedure to contribute
 
@@ -28,9 +28,9 @@ You'll need to follow the following steps to be able to contribute to the projec
 1. Make a pull request to the repository
 1. Wait for the merge ;)
 
-## The architeture of the content management
+## The architecture of the content management
 
-To ensure that the posts stay organized a simple architeture have been set. This architeture is simply used as a start but following the rules is very important for the organisation of the system. The architeture is as follows
+To ensure that the posts stay organized a simple architecture has been set. This architecture is simply used as a start but following the rules is very important for the organization of the system. The architecture is as follows
 
 {{< fileTree >}}
 * content
