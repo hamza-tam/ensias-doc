@@ -26,6 +26,9 @@ menu:
     - name: Clubs
       url: /clubs/
       weight: 4
+    - name: FAQ
+      url: /faq/
+      weight: 4
 
 markup:
   defaultMarkdownHandler: goldmark
