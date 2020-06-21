@@ -12,7 +12,12 @@ Afin d'activer votre adresse email académique (@um5s.net.ma) de l'Université M
 
 ou bien envoyer un email avec objet : Activation de votre compte UM5 Apps, contenant votre Nom, Prenom et Email personel et votre CNE ou Code Massar à l'adresse suivante : w.chaer@um5s.net.ma
 
-
 ## PS
 
 Ce service est offert aux étudiants/lauréats de l'Université Mohammed V collaboration avec Google Apps for Education.
+
+## Mais à quoi ça peut servir ?
+
+[GitHub student pack](https://medium.com/ieee-ensias-student-branch/github-student-pack-2faff232641e) 
+
+[Microsoft Azure - $ 100 credit for 12 months](https://medium.com/ieee-ensias-student-branch/microsoft-azure-for-students-starter-115ddeaa204c) 
