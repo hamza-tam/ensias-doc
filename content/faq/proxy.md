@@ -29,3 +29,4 @@ Lorsque j'ai le PROXY_HOST (dans notre cas 10.23.201.11) et le PROXY_PORT (3128)
 - Cas général : git config --global http.proxy "http://$PROXY_HOST:$PROXY_PRT"
 
 - Dans notre cas : git config --global http.proxy http://10.23.201.11:3128
+
