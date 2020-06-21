@@ -26,7 +26,7 @@ Ecoles et Chiffres de l'année 2019/2020 :
 * France
     * [Esisar, Greoble INP, France](https://esisar.grenoble-inp.fr/fr/formation/cycle-ingenieur-1) 
 
-    * [Phelma, Grenoble INP, France, Filière Signal, Image, Communication, Multimédia (SICOM) - commune avec Grenoble INP - Ense3](https://phelma.grenoble-inp.fr/fr/formation/ingenieur-de-grenoble-inp-phelma-filiere-signal-image-communication-multimedia-sicom#page-presentation) 
+    * [Phelma, Grenoble INP, France, Filière Signal, Image, Communication, Multimédia (SICOM) - commune avec Grenoble INP - Ense3](https://phelma.grenoble-inp.fr/fr/formation/ingenieur-de-grenoble-inp-phelma-filiere-signal-image-communication-multimedia-sicom) 
 
     * [ENSIIE, France](https://www.ensiie.fr/missions/venir/) 
 
@@ -50,4 +50,16 @@ Ecoles et Chiffres de l'année 2019/2020 :
 
     * [Ecole des Mines Saint-Etienne, France, Cursus ICM](https://www.mines-stetienne.fr) 
 
+## Mobilités fléchées :
 
+* Filière IEL : 
+    * [Ecole des Mines Saint-Etienne, Gardanne, France , Cursus ISMIN, Parcours Information Technologies & Supply Chain](https://www.mines-stetienne.fr) 
+* Filière ISEM :
+    * [Bonn Rhein Sieg University, Germany](https://www.h-brs.de/en/international-courses-study) 
+
+    * [Phelma, Grenoble INP, France, Filière Signal, Image, Communication, Multimédia (SICOM) - commune avec Grenoble INP - Ense3](https://phelma.grenoble-inp.fr/fr/formation/ingenieur-de-grenoble-inp-phelma-filiere-signal-image-communication-multimedia-sicom#page-presentation) 
+
+    * [ENSIM : Ecole Nationale d'Ingénieurs du Mans, France](http://ensim.univ-lemans.fr/fr/formations/specialite-informatique.html) 
+    
+    * [Ecole des Mines Saint-Etienne, Gardanne, France, Cursus ISMIN, Parcours Embedded Systems](https://www.mines-stetienne.fr) 
+    
