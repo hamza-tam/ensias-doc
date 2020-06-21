@@ -24,9 +24,14 @@ Vos paramètres devraient ressembler à ceci:
 
 ## Proxy pour Git
 
-Lorsque j'ai le PROXY_HOST (dans notre cas 10.23.201.11) et le PROXY_PORT (3128), je peux définir certaines variables d'environnement et dire à git d'utiliser le proxy (commande suivante):
+* Lorsque j'ai le PROXY_HOST (dans notre cas 10.23.201.11) et le PROXY_PORT (3128), je peux définir certaines variables d'environnement et dire à git d'utiliser le proxy (commande suivante):
 
-- Cas général : git config --global http.proxy "http://$PROXY_HOST:$PROXY_PRT"
+  * Cas général : git config --global http.proxy "http://$PROXY_HOST:$PROXY_PRT"
 
-- Dans notre cas : git config --global http.proxy http://10.23.201.11:3128
+  * Dans notre cas : git config --global http.proxy http://10.23.201.11:3128
 
+* Pour annuler la configuration du proxy :
+
+  * git config --global --unset http.proxy
+
+  * git config --global --unset https.proxy
