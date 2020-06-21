@@ -2,6 +2,9 @@
 title: "C'est quoi IEEE ENSIAS Student Branch"
 date: 2020-06-17T16:48:48+01:00
 clubs: ["IEEE ENSIAS Student Branch"]
+tags: ["clubs"]
+contributor: "Jad Ezahraoui"
+draft: false
 ---
 
 ## À propos de l'IEEE
@@ -31,5 +34,11 @@ https://smartmaterials.ieee.org/
 
 [Source : IEEE Section France](https://ieeefrance.org/a-propos-de-ieee/)
 
-## C'est quoi IEEE ENSIAS Student Branch
 
+## Compétitions d'IEEE
+
+L’IEEE offre de multiples compétitions ouvertes aux étudiants chaque année, sponsorisées par différentes sociétés, incluant le Comité des Activités étudiantes (The Student Activities Committee SAC). Vous pouvez jeter un coup d’oeil à certaines offres pour les membres étudiants et doctorants. De nouveaux concours sont fréquemment ajoutés, donc vérifiez souvent ces liens :
+
+
+[IEEEXtreme 24-Hour Programming Competition](https://ieeextreme.org)
+[IEEE Student Branch Web Site Contest](https://students.ieee.org)
