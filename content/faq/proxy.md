@@ -12,6 +12,7 @@ Les paramètres de proxy pour Maven se trouvent dans $HOME/.m2/settings.xml. Il 
 
 Vos paramètres devraient ressembler à ceci:
 
+```
 <proxies>
     <proxy>
       <protocol>http</protocol>
@@ -21,6 +22,7 @@ Vos paramètres devraient ressembler à ceci:
     </proxy>
 </proxies>
 
+```
 
 ## Proxy pour Git
 
