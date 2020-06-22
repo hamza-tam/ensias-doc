@@ -1,6 +1,6 @@
 ---
 title: "Compétitions d'IEEE et Concours d’articles Etudiants"
-date: 2020-06-17T16:48:48+01:00
+date: 2020-06-22T23:12:48+01:00
 clubs: ["IEEE ENSIAS Student Branch"]
 tags: ["clubs"]
 contributor: "Jad Ezahraoui"
