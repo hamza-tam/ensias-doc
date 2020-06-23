@@ -17,19 +17,19 @@ Les membres de L’IEEE agissent à l’aide de publications, de conférences, d
 
 Des groupes d’intérêts s’intéressent plus particulièrement au développement durable, aux jeunes professionnels et aux femmes ingénieures.
 
-https://yp.ieee.org/
-https://wie.ieee.org/
+* https://yp.ieee.org/
+* https://wie.ieee.org/
 
  L’IEEE est également très active via ses initiatives pour le futur :
 
-https://sustainableict.ieee.org/
-https://blockchain.ieee.org
-https://bigdata.ieee.org/
-https://brain.ieee.org/
-https://digitalreality.ieee.org/
-https://cybersecurity.ieee.org/
-https://rebootingcomputing.ieee.org/
-https://sdn.ieee.org/
-https://smartmaterials.ieee.org/
+* https://sustainableict.ieee.org/
+* https://blockchain.ieee.org
+* https://bigdata.ieee.org/
+* https://brain.ieee.org/
+* https://digitalreality.ieee.org/
+* https://cybersecurity.ieee.org/
+* https://rebootingcomputing.ieee.org/
+* https://sdn.ieee.org/
+* https://smartmaterials.ieee.org/
 
 [Source : IEEE Section France](https://ieeefrance.org/a-propos-de-ieee/)

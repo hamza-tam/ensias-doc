@@ -18,7 +18,7 @@ Ecoles et Chiffres de l'année 2019/2020 :
     * [Aalto University, Finlande, Master of Science in Technology](https://www.aalto.fi/en) : 2 échanges
 
 * Canada
-    * [Université de Sherbrooke - Canada](https://www.usherbrooke.ca/international/fr/etudiants-internationaux/) : 5 échanges
+    * [Université de Sherbrooke - Canada](https://www.usherbrooke.ca/international/fr/etudiants-internationaux/) : 5 échanges 
 
 * Italie
     * [University of Calabria - Italy](https://www.unical.it/portale/international/francese/) : 3 Double diplôme
