@@ -42,4 +42,60 @@ Vos paramètres devraient ressembler à ceci:
   * git config --global --unset https.proxy
 ```
 
+## Proxy pour NPM
 
+* Utiliser les commandes suivantes:
+
+```
+npm config set proxy http://username:password@host:port
+npm config set https-proxy http://username:password@host:port
+```
+
+* Vous pouvez faire une configuration manuelle sur le fichier ~/.npmrc :
+
+```
+proxy=http://username:password@host:port
+https-proxy=http://username:password@host:port
+https_proxy=http://username:password@host:port
+```
+
+## Proxy pour Yarn 
+
+* Utiliser les commandes suivantes:
+
+```
+yarn config set proxy http://username:password@host:port
+yarn config set https-proxy http://username:password@host:port
+```
+
+## Proxy pour Gradle
+
+* Vous allez au fichier gradle.properties sen suivant les chemins :
+
+```
+- # windows gradle file
+%userprofile%\.gradle\gradle.properties
+
+- # linux gradle file
+~/.gradle/gradle.properties
+```
+* Faire les modifications suivantes : 
+
+```
+## Proxy setup
+systemProp.proxySet="true"
+systemProp.http.keepAlive="true"
+systemProp.http.proxyHost=host
+systemProp.http.proxyPort=port
+systemProp.http.proxyUser=username
+systemProp.http.proxyPassword=password
+systemProp.http.nonProxyHosts=local.net|some.host.com
+
+systemProp.https.keepAlive="true"
+systemProp.https.proxyHost=host
+systemProp.https.proxyPort=port
+systemProp.https.proxyUser=username
+systemProp.https.proxyPassword=password
+systemProp.https.nonProxyHosts=local.net|some.host.com
+## end of proxy setup
+```
