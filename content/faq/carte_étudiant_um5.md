@@ -12,8 +12,8 @@ C'est une carte personnelle pour chaque étudiant dans l'Université Mohammed V 
 
 ## Mais à quoi ça peut servir ?
 
-- Pour justifier votre identité pendant le passage des examens
+- Pour justifier votre identité lors du passage des examens
 
 - Pour accèder à la bibliothèque de l'école et emprunter des livres
 
-- Pour l'utiliser lors de l'inscription dans des services et packs étudiants comme le tram et les autres moyens transports
+- S'inscrire dans des packs étudiants comme le service du tram et les autres moyens transports
